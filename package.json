@@ -1,0 +1,24 @@
+{
+  "name": "fetch-response-json",
+  "version": "1.0.0",
+  "description": "The response.json call for fetch.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markscripter/fetch-response-json.git"
+  },
+  "keywords": [
+    "fetch",
+    "response.json"
+  ],
+  "author": {
+    "name": "Mark Scripter",
+    "email": "mark@mscriptdesign.com",
+    "url": "http://github.com/markscripter/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markscripter/fetch-response-json/issues"
+  },
+  "homepage": "https://github.com/markscripter/fetch-response-json#readme"
+}
